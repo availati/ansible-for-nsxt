@@ -1,0 +1,24 @@
+{
+ "collection_info": {
+  "namespace": "vmware",
+  "name": "ansible_for_nsxt",
+  "version": "3.2.0",
+  "authors": [
+   "Nabhajit Ray <nabhajit.ray@hpe.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "ansible",
+   "vmware",
+   "nsxt"
+  ],
+  "description": "Ansible Modules for NSX-t",
+  "license": [],
+  "license_file": "LICENSE.txt",
+  "dependencies": {},
+  "repository": "https://github.com/vmware/ansible-for-nsxt",
+  "documentation": "http://docs.example.com",
+  "homepage": "https://github.com/vmware/ansible-for-nsxt"
+ }
+ "format": 1
+}
